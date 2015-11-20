@@ -1,4 +1,4 @@
-aAxlsx: Office Open XML Spreadsheet Generation
+Axlsx: Office Open XML Spreadsheet Generation
 ====================================
 [![Build Status](https://secure.travis-ci.org/randym/axlsx.png?branch=master)](http://travis-ci.org/randym/axlsx/)
 
